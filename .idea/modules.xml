@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter6/config-client/config-client.iml" filepath="$PROJECT_DIR$/sc-f-chapter6/config-client/config-client.iml" group="sc-f-chapter6" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter7/config-client/config-client7.iml" filepath="$PROJECT_DIR$/sc-f-chapter7/config-client/config-client7.iml" group="sc-f-chapter7" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter6/config-server/config-server.iml" filepath="$PROJECT_DIR$/sc-f-chapter6/config-server/config-server.iml" group="sc-f-chapter6" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter7/config-server/config-server7.iml" filepath="$PROJECT_DIR$/sc-f-chapter7/config-server/config-server7.iml" group="sc-f-chapter7" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/eureka-server/eureka-server.iml" group="sc-f-chapter5" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter7/eureka-server/eureka-server2.iml" filepath="$PROJECT_DIR$/sc-f-chapter7/eureka-server/eureka-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter7/sc-f-chapter7.iml" filepath="$PROJECT_DIR$/sc-f-chapter7/sc-f-chapter7.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-feign/service-feign.iml" group="sc-f-chapter5" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-hi/service-hi.iml" group="sc-f-chapter5" />
       <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-ribbon/service-ribbon.iml" group="sc-f-chapter5" />
