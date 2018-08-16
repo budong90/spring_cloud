@@ -9,6 +9,8 @@
         <module name="eureka-server" />
         <module name="service-feign" />
         <module name="service-hi" />
+        <module name="service-ribbon" />
+        <module name="service-zuul" />
         <module name="spring-cloud" />
         <module name="spring-cloud-test" />
       </profile>
@@ -17,6 +19,8 @@
       <module name="eureka-server" target="1.8" />
       <module name="service-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
       <module name="spring-cloud" target="1.5" />
       <module name="spring-cloud-test" target="1.8" />
     </bytecodeTargetLevel>

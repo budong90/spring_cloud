@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/eureka-server/eureka-server.iml" group="sc-f-chapter5" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-zuul/service-zuul.iml" group="sc-f-chapter5" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-test/spring-cloud-test.iml" filepath="$PROJECT_DIR$/spring-cloud-test/spring-cloud-test.iml" />
     </modules>
   </component>
 </project>

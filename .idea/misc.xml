@@ -4,10 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/service-hi/pom.xml" />
-        <option value="$PROJECT_DIR$/service-feign/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-test/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter5/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter5/service-zuul/pom.xml" />
       </list>
     </option>
   </component>
