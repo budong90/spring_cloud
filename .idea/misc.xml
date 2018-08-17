@@ -17,6 +17,9 @@
         <option value="$PROJECT_DIR$/sc-f-chapter7/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/sc-f-chapter8/pom.xml" />
         <option value="$PROJECT_DIR$/sc-f-chapter8/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter9/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter9/service-miya/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
