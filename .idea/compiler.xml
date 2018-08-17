@@ -20,7 +20,6 @@
         <module name="eureka-server3" />
         <module name="sc-f-chapter9" />
         <module name="service-feign" />
-        <module name="service-hi" />
         <module name="service-hi2" />
         <module name="service-miya" />
         <module name="service-ribbon" />
@@ -41,7 +40,7 @@
       <module name="config-server3" target="1.8" />
       <module name="config-server7" target="1.5" />
       <module name="eureka-server" target="1.8" />
-      <module name="eureka-server (1)" target="1.5" />
+      <module name="eureka-server (1)" target="1.8" />
       <module name="eureka-server2" target="1.8" />
       <module name="eureka-server3" target="1.8" />
       <module name="sc-f-chapter6" target="1.8" />
