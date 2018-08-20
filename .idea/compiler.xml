@@ -14,18 +14,24 @@
         <module name="config-server" />
         <module name="config-server3" />
         <module name="config-server7" />
+        <module name="consul-miya" />
         <module name="eureka-server" />
         <module name="eureka-server (1)" />
         <module name="eureka-server (2)" />
         <module name="eureka-server2" />
         <module name="eureka-server3" />
+        <module name="eureka-server4" />
+        <module name="sc-f-chapter13" />
         <module name="sc-f-chapter9" />
         <module name="service-feign" />
         <module name="service-hi" />
         <module name="service-hi (1) (com.forezp)" />
         <module name="service-hi2" />
+        <module name="service-hi3" />
+        <module name="service-lucy" />
         <module name="service-miya" />
         <module name="service-ribbon" />
+        <module name="service-turbine" />
         <module name="service-zuul" />
         <module name="spring-cloud" />
         <module name="spring-cloud-test" />
@@ -42,13 +48,17 @@
       <module name="config-server2" target="1.8" />
       <module name="config-server3" target="1.8" />
       <module name="config-server7" target="1.5" />
+      <module name="consul-miya" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="eureka-server (1)" target="1.8" />
       <module name="eureka-server (2)" target="1.8" />
       <module name="eureka-server2" target="1.8" />
       <module name="eureka-server3" target="1.8" />
+      <module name="eureka-server4" target="1.8" />
       <module name="sc-f-chapter10" target="1.8" />
       <module name="sc-f-chapter12" target="1.8" />
+      <module name="sc-f-chapter13" target="1.8" />
+      <module name="sc-f-chapter14" target="1.8" />
       <module name="sc-f-chapter6" target="1.8" />
       <module name="sc-f-chapter7" target="1.8" />
       <module name="sc-f-chapter8" target="1.8" />
@@ -57,8 +67,11 @@
       <module name="service-hi" target="1.8" />
       <module name="service-hi (1) (com.forezp)" target="1.8" />
       <module name="service-hi2" target="1.8" />
+      <module name="service-hi3" target="1.8" />
+      <module name="service-lucy" target="1.8" />
       <module name="service-miya" target="1.8" />
       <module name="service-ribbon" target="1.8" />
+      <module name="service-turbine" target="1.8" />
       <module name="service-zuul" target="1.8" />
       <module name="spring-cloud" target="1.5" />
       <module name="spring-cloud-test" target="1.8" />
