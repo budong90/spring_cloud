@@ -18,7 +18,6 @@
         <module name="eureka-server (1)" />
         <module name="eureka-server2" />
         <module name="eureka-server3" />
-        <module name="sc-f-chapter10" />
         <module name="sc-f-chapter9" />
         <module name="service-feign" />
         <module name="service-hi" />
